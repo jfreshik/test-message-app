@@ -1,0 +1,10 @@
+spring:
+  jpa:
+    open-in-view: false
+
+logging:
+  level:
+    com:
+      example:
+        vuejs: DEBUG
+
